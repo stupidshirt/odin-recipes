@@ -1,0 +1,38 @@
+*{
+    font-family: Verdana, Helvetica, sans-serif;
+}
+img{
+    width: 650px;
+    height: auto;
+}
+
+.name{
+    font-size: 48px;
+    font-weight: bold;
+}
+.links li{
+    font-size: 26px;
+    background-color: red;
+    width: 325px;
+}
+.description{
+    width: 650px;
+}
+.ingredients{
+    font-size: 26px;
+    color: black;
+    background-color: yellow;
+    width: 650px;
+}
+.steps.header{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.steps.list{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: orange;
+}
