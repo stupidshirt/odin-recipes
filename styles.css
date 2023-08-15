@@ -5,14 +5,25 @@ img{
     width: 650px;
     height: auto;
 }
+.container{
+    width: 800px;
+    background-color: lightgrey;
+    margin: auto;
+    padding: 8px;
+}
 
 .name{
     font-size: 48px;
     font-weight: bold;
 }
+.links{
+    background-color: white;
+    margin: 8px;
+    list-style-type: none;
+}
 .links li{
     font-size: 26px;
-    background-color: red;
+    background-color: white;
     width: 325px;
 }
 .description{
